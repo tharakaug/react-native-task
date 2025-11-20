@@ -19,7 +19,7 @@ This is my submission for the React Native internship mock test.
 
 ## ▶️ How to Run
 1. Clone the repo:
-   git clone https://github.com/<your-username>/<repo-name>.git
+  https://github.com/tharakaug/react-native-task.git
 2. Install dependencies:
    npm install
 3. Run the app:
