@@ -35,7 +35,5 @@ This is my submission for the React Native internship mock test.
 <img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/430bb7ad-f834-47ed-8d12-1eb370b8f2e2" />
 
 
-## 📦 APK Download
-Download the Android APK here:
-👉 <your-google-drive-link>
+
 
